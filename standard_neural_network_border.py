@@ -1,4 +1,4 @@
-# A multilayer perceptron used for border irregularity detection
+# A multilayer perceptron for border irregularity detection
 
 import numpy as np
 import os
